@@ -142,7 +142,7 @@ twitter = "https://twitter.com/"
 linkedin= "https://www.linkedin.com/"
 dribbble= "https://dribbble.com/"
 instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
+mapLatitude = "40.749077"
 mapLongitude= "-0.127758"
 mapMarker   = "images/marker.png"
 
@@ -173,29 +173,13 @@ weight  = 4
 name    = "graphicdesign"
 url     = "service"
 weight  = 1
-[[menu.service]]
-name    = "webdesign"
-url     = "service"
-weight  = 2
-[[menu.service]]
-name    = "webdevelopment"
-url     = "service"
-weight  = 3
 
 # Footer Quick links Menu
 [[menu.quicklink]]
-name    = "partners"
-url     = "about"
+name    = "articles"
+url     = "articles"
 weight  = 1
 [[menu.quicklink]]
 name    = "about"
 url     = "about"
 weight  = 2
-[[menu.quicklink]]
-name    = "faqs"
-url     = "about"
-weight  = 3
-[[menu.quicklink]]
-name    = "badges"
-url     = "about"
-weight  = 4
