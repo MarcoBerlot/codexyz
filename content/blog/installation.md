@@ -1,7 +1,7 @@
 ---
-title: "How To Setup Navigator Hugo"
+title: "What's a neural network?"
 date: 2018-07-08T12:22:40+06:00
-image: images/blog/post-2.jpg
+image: images/portfolio/portfolio-2.jpg
 author: Cersei Lannister
 description: "This is meta description"
 ---
@@ -27,7 +27,7 @@ Run this command
 hugo new site navigator-hugo
 ```
 and then go to the themes folder inside of navigator-hugo folder. You can also use this command ```cd navigator-hugo/themes``` for going to this folder.
-Then run the command 
+Then run the command
 ```
 git clone git@github.com:themefisher/navigator-hugo.git
 ```
