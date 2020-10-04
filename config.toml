@@ -21,12 +21,6 @@ DefaultContentLanguage = "en"
 [params]
 logo = "images/logo.png"
 
-# Gestion des langues : FR / EN / NL / DE
-[[Params.listeLangues]]
-code = "fr"
-[[Params.listeLangues]]
-code = "en"
-
 # meta data
 author = "Themefisher"
 description = "This is meta description"
