@@ -164,8 +164,8 @@ name    = "about"
 url     = "about"
 weight  = 2
 [[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
+name    = "articles"
+url     = "blog"
 weight  = 4
 
 # Footer Service Menu
