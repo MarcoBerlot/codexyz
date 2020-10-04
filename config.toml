@@ -124,8 +124,8 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae de
 # Blog Section On Homepage
 [Languages.en.params.blog]
 enable  = true
-topTitle= "OUR UNTOLD STORY"
-title   = "Blog."
+topTitle= "Want to learn something new?"
+title   = "Articles."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section

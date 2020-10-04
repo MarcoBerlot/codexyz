@@ -1,8 +1,8 @@
 ---
-title: "Blog Photos on Phone"
+title: "Bootstrap an app with React and NodeJs"
 date: 2018-07-08T12:22:40+06:00
-image: images/blog/post-2.jpg
-author: Cersei Lannister
+image: images/portfolio/portfolio-1.jpg
+author: Marco Berlot
 description: "This is meta description"
 ---
 
