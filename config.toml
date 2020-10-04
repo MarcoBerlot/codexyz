@@ -22,8 +22,8 @@ DefaultContentLanguage = "en"
 logo = "images/logo.png"
 
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "CodeXYZ"
+description = "CodeXYZ"
 
 # Gestion des langues : FR / EN / NL / DE
 [Languages]
@@ -86,13 +86,6 @@ mapLatitude = "51.507351"
 mapLongitude= "-0.127758"
 mapMarker   = "images/marker.png"
 
-# Call to Action Section on About Page
-[Languages.fr.params.cta]
-enable  = true
-bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "FRANCAIS Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Nous contacter"
 
 ############# 2 - Site en ENGLISH
 [Languages.en]
@@ -101,7 +94,7 @@ languageCode = "en-us"
 title = "Example site multi-language"
 dateFormat = "January 2, 2006"
 
-home = "EN Home"
+home = "Home"
 logo = "images/logo.png"
 menufixed = false
 
@@ -114,7 +107,7 @@ footerSubscribeTitle = "Subscribe"
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "We love to make brands grow"
+heading = "A place to bring your tech knowledge to the next level"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button  = true
 btnText = "Know More"
@@ -171,21 +164,9 @@ name    = "about"
 url     = "about"
 weight  = 2
 [[menu.nav]]
-name    = "service"
-url     = "service"
-weight  = 3
-[[menu.nav]]
 name    = "portfolio"
 url     = "portfolio"
 weight  = 4
-[[menu.nav]]
-name    = "blog"
-url     = "blog"
-weight  = 5
-[[menu.nav]]
-name    = "contact"
-url     = "contact"
-weight  = 6
 
 # Footer Service Menu
 [[menu.service]]
